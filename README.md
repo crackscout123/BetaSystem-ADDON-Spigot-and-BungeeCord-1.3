@@ -1,7 +1,7 @@
 # BetaSystem-ADDON-Spigot-and-BungeeCord-1.3
  With this addon keys can be listed on a locked websit
  
-### Installing#
+### Installing
 1. Download the BetaSystem
 2. Setup BetaSystem
 3. Upload the list.php
