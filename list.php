@@ -13,6 +13,9 @@ $username = "admin";
     <link rel="stylesheet" href="https://unpkg.com/papercss@1.4.1/dist/paper.min.css">
   </head>
   <body>
+    <div class="row flex-spaces child-borders">
+
+    <div class="sm-3 col padding-left-large">
     <h1>Betakeys</h1>
     <h3>Solltest du ein Beta Key besitzen kannst du ihn hier kopieren um dein Betazugang freizuschalten.</h3>
     <br>
@@ -40,5 +43,9 @@ $username = "admin";
 
 
 	?>
+	
+    </div>
+
+    </div>
   </body>
 </html>
