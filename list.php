@@ -3,7 +3,6 @@ $arg1 = $_POST['user'];
 $arg2 = $_POST['pass'];
 $password = "foobar";
 $username = "admin";
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -14,7 +13,6 @@ $username = "admin";
   </head>
   <body>
     <div class="row flex-spaces child-borders">
-
     <div class="sm-3 col padding-left-large">
     <h1>Betakeys</h1>
     <h3>Solltest du ein Beta Key besitzen kannst du ihn hier kopieren um dein Betazugang freizuschalten.</h3>
@@ -40,12 +38,8 @@ $username = "admin";
 		<input type="submit" value="Login" class="button">
 		</form>';
 	}
-
-
 	?>
-	
-    </div>
-
+      </div>
     </div>
   </body>
 </html>
